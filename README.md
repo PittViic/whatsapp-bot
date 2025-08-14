@@ -51,11 +51,11 @@ node -v
 
 1.  Clone o repositório para sua máquina local:
     ```sh
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/PittViic/whatsapp-bot.git
     ```
 2.  Navegue até o diretório do projeto:
     ```sh
-    cd seu-repositorio
+    cd whatsapp-bot
     ```
 3.  Instale todas as dependências necessárias:
     ```sh
